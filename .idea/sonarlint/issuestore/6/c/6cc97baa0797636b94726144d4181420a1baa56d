@@ -1,0 +1,18 @@
+
+o
+java:S2095	"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ŠíˆĞÿÿÿÿÿ8¶¾˜Š—1
+T
+java:S1854"8Remove this useless assignment to local variable "data".(û–ëa8·¾˜Š—1
+X
+java:S1854	"6Remove this useless assignment to local variable "fs".(ŠíˆĞÿÿÿÿÿ8·¾˜Š—1
+I
+java:S1481	"'Remove this unused "fs" local variable.(ŠíˆĞÿÿÿÿÿ8¸¾˜Š—1
+E
+java:S1481")Remove this unused "data" local variable.(û–ëa8¹¾˜Š—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‘İæØúÿÿÿÿ8¹¾˜Š—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‹ÒÓ8¹¾˜Š—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µ–åîúÿÿÿÿ8¹¾˜Š—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Â€ÌÁüÿÿÿÿ8¹¾˜Š—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¤¤€š8º¾˜Š—1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(´‡Íıÿÿÿÿ8º¾˜Š—1
+]	java:S125"<This block of commented-out lines of code should be removed.(ïõİûÿÿÿÿ8º¾˜Š—1

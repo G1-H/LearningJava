@@ -1,0 +1,15 @@
+
+g	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8ίλ­1
+g	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8ίλ­1
+Q
+java:S1141"5Extract this nested try block into a separate method.(ρΣθ8ίλ­1
+D
+java:S2189""Add an end condition to this loop.(οÿÿÿÿÿ8–ίλ­1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(©έ¬8™ίλ­1
+a
+java:S2147,"DCombine this catch with the one at line 42, which has the same body.(ύΰΡΞ8ίλ­1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§Ψ…Ω8ίλ­1
+X	java:S125"<This block of commented-out lines of code should be removed.(ΡΪ–8ίλ­1
+J
+java:S1481".Remove this unused "inputLine" local variable.(‡±•_8ιτμ­1
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ΙΣ“ύÿÿÿÿ8ίλ­1

@@ -1,0 +1,10 @@
+
+g	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8“è«º˜1
+g	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8“è«º˜1
+a
+java:S2147,"DCombine this catch with the one at line 42, which has the same body.(ýàÑÎ8˜è«º˜1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§Ø…Ù8™è«º˜1
+X	java:S125"<This block of commented-out lines of code should be removed.(ÑÚ–Ž8›è«º˜1
+J
+java:S1481 ".Remove this unused "inputLine" local variable.(‡±•_8›è«º˜1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(î±ûÿúÿÿÿÿ8›è«º˜1

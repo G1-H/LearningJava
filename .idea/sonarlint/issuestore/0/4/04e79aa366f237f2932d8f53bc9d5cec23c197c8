@@ -1,0 +1,11 @@
+
+R
+java:S1611"5Remove the parentheses around the "student" parameter(®Öá«8»îÏ·—1
+_
+java:S1612"=Replace this lambda with method reference 'Student::getName'.(‘Ôİıÿÿÿÿ8¼îÏ·—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¿¥…ã8¼îÏ·—1
+`
+java:S1612&">Replace this lambda with method reference 'Student::getScore'.(½’Õòúÿÿÿÿ8¼îÏ·—1
+`
+java:S1612-">Replace this lambda with method reference 'Student::getScore'.(½’Õòúÿÿÿÿ8½îÏ·—1
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(©®ÿ8½îÏ·—1

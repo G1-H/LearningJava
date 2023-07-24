@@ -1,0 +1,11 @@
+
+b	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(îá²°8ôÎôš—1
+g	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(ıŠšÂùÿÿÿÿ8üü÷š—1
+b	java:S112."FDefine and throw a dedicated exception instead of using a generic one.(ğ˜ò¯8üü÷š—1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "2023-11-09" 6 times.(Óó³¶øÿÿÿÿ8ôÎôš—1
+j
+java:S1192 "HDefine a constant instead of duplicating this literal "SHIPPED" 3 times.(Ş¸…úÿÿÿÿ8ôÎôš—1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­ÍÁÈşÿÿÿÿ8õÎôš—1
+T	java:S1065"9Replace this use of System.out or System.err by a logger.(›ËÒ[8ûÎôš—1
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(äïğ®üÿÿÿÿ8ûÎôš—1

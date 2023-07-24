@@ -1,0 +1,15 @@
+
+S
+java:S1611"6Remove the parentheses around the "customer" parameter(ÌÎÉ¤8íı–·—1
+a
+java:S1612"DReplace this lambda with method reference 'TravelCustomer::getName'.(ÌÎÉ¤8íı–·—1
+T
+java:S1611"2Remove the parentheses around the "name" parameter(úû´‹ùÿÿÿÿ8íı–·—1
+b
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(úû´‹ùÿÿÿÿ8íı–·—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(úû´‹ùÿÿÿÿ8íı–·—1
+X
+java:S1611"6Remove the parentheses around the "customer" parameter(ÖÕûÿÿÿÿ8îı–·—1
+g
+java:S1612"EReplace this lambda with method reference 'TravelCustomer::getPrice'.(ÖÕûÿÿÿÿ8îı–·—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Éæşÿÿÿÿ8’˜·—1

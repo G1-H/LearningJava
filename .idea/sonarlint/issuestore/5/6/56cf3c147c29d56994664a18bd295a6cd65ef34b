@@ -1,0 +1,11 @@
+
+a
+java:S2147%"DCombine this catch with the one at line 35, which has the same body.(ï­£Ä8ÙØ›­˜1
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(š¥¶!8ÜØ›­˜1
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(Ïö³šÿÿÿÿÿ8Íé®­˜1
+a
+java:S1128"DRemove this unused import 'mission.week2.day1Mission2.ReviewerRole'.(ÕõöÄ8ÿÀ¥­˜1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÿÀ¥­˜1
+M
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÿÀ¥­˜1

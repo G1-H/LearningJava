@@ -1,0 +1,25 @@
+
+\
+java:S1854"?Remove this useless assignment to local variable "multipleNum".(å‹Ø±8ï°Ù³—1
+N
+java:S1611"1Remove the parentheses around the "num" parameter(å‹Ø±8ï°Ù³—1
+M
+java:S1481"0Remove this unused "multipleNum" local variable.(å‹Ø±8ï°Ù³—1
+N
+java:S1611"1Remove the parentheses around the "num" parameter(²²Œö8ï°Ù³—1
+Q
+java:S1611	"/Remove the parentheses around the "x" parameter(—ìÁªûÿÿÿÿ8ğ°Ù³—1
+N
+java:S1611"1Remove the parentheses around the "str" parameter(ÒÜÃ€8ğ°Ù³—1
+]
+java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(ÒÜÃ€8ô°Ù³—1
+N
+java:S1611"1Remove the parentheses around the "num" parameter(¯™8ô°Ù³—1
+Y
+java:S1611"7Remove the parentheses around the "myBoolean" parameter(ÍÖ–ıÿÿÿÿ8ô°Ù³—1
+;
+java:S2178"Correct this "&" to "&&".(ÍÖ–ıÿÿÿÿ8õ°Ù³—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ªÌÂé8õ°Ù³—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(òó’ıÿÿÿÿ8õ°Ù³—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†ûÁ¦şÿÿÿÿ8ö°Ù³—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8ö°Ù³—1

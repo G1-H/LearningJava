@@ -1,0 +1,11 @@
+
+o
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(²È¿¢üÿÿÿÿ8ÜáÈ‰—1
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ğô´÷8ŞáÈ‰—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚êèõ8àáÈ‰—1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(×Û­Q8àáÈ‰—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÚıÈıÿÿÿÿ8ãšÉ‰—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Î‚Ï…üÿÿÿÿ8¸Ë‰—1
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8ááÈ‰—1

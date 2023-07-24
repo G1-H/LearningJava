@@ -1,0 +1,5 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÁÍ®º˜1
+W
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÂÍ®º˜1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(©ˆİ¬8ÅÍ®º˜1

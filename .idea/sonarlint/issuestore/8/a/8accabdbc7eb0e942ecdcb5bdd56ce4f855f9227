@@ -1,0 +1,18 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Apple" 3 times.(Çà¥©ıÿÿÿÿ8È—û¶—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ö–ü©8Ï—û¶—1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(²£ßıÿÿÿÿ8Ğ—û¶—1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(¥°·Ÿşÿÿÿÿ8Ğ—û¶—1
+b
+java:S1612("@Replace this lambda with method reference 'String::toUpperCase'.(İ‰‘şÿÿÿÿ8Ğ—û¶—1
+c
+java:S1612,"AReplace this lambda with method reference 'CharSequence::length'.(ÁÄºìıÿÿÿÿ8Ñ—û¶—1
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(É³ û8Ñ—û¶—1
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(İÙ°…ıÿÿÿÿ8Ñ—û¶—1
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(ã¹°áúÿÿÿÿ8Ñ—û¶—1
+T	java:S106:"9Replace this use of System.out or System.err by a logger.(æ‘‰/8Ò—û¶—1
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(‰¯ãıÿÿÿÿ8Ò—û¶—1
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(ëÈ¬ˆüÿÿÿÿ8‚íü¶—1
+L
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8Ò—û¶—1

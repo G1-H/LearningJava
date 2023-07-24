@@ -1,0 +1,32 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Apple" 3 times.(×ÃüÉıÿÿÿÿ8§¢šµ—1
+i
+java:S1192"GDefine a constant instead of duplicating this literal "Orange" 3 times.(×ÃüÉıÿÿÿÿ8§¢šµ—1
+i
+java:S1192"GDefine a constant instead of duplicating this literal "Banana" 3 times.(×ÃüÉıÿÿÿÿ8§¢šµ—1
+W
+java:S1854":Remove this useless assignment to local variable "fruit3".(ªÜ—8«¢šµ—1
+d
+java:S1854"BRemove this useless assignment to local variable "integerStream2".(ğıÑËùÿÿÿÿ8«¢šµ—1
+X
+java:S1854";Remove this useless assignment to local variable "fruits2".(ŸçØ8«¢šµ—1
+d
+java:S1854"BRemove this useless assignment to local variable "integerStream3".(·†èÏıÿÿÿÿ8«¢šµ—1
+I
+java:S1481",Remove this unused "fruits2" local variable.(ŸçØ8­¢šµ—1
+U
+java:S1481"3Remove this unused "integerStream2" local variable.(ğıÑËùÿÿÿÿ8­¢šµ—1
+H
+java:S1481"+Remove this unused "fruit3" local variable.(ªÜ—8®¢šµ—1
+U
+java:S1481"3Remove this unused "integerStream3" local variable.(·†èÏıÿÿÿÿ8®¢šµ—1
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(ºÛÇä8®¢šµ—1
+U
+java:S1611'"3Remove the parentheses around the "fruit" parameter(ëº­Åúÿÿÿÿ8®¢šµ—1
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ëº­Åúÿÿÿÿ8®¢šµ—1
+Q
+java:S1611)"/Remove the parentheses around the "i" parameter(ÛÖ×Üùÿÿÿÿ8¯¢šµ—1
+b
+java:S1612)"@Replace this lambda with method reference 'System.out::println'.(ÛÖ×Üùÿÿÿÿ8…›µ—1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ÛÖ×Üùÿÿÿÿ8ãËšµ—1

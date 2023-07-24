@@ -1,0 +1,11 @@
+
+o
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(›¹…ııÿÿÿÿ8Â¹ßˆ—1
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(œ¶ãˆ8±ëİˆ—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ‹·8±ëİˆ—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(šİ8²ëİˆ—1
+X
+java:S1854"6Remove this useless assignment to local variable "fs".(›¹…ııÿÿÿÿ8Å¹ßˆ—1
+I
+java:S1481"'Remove this unused "fs" local variable.(›¹…ııÿÿÿÿ8È¹ßˆ—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ğú×ùÿÿÿÿ8É¹ßˆ—1

@@ -1,0 +1,14 @@
+
+{
+java:S1192
+"^Define a constant instead of duplicating this literal " : ì‹¤í–‰í•˜ê³  ìˆìŠµë‹ˆë‹¤." 4 times.(‰şÛ–8Î¯§¹˜1
+e
+java:S1192
+"HDefine a constant instead of duplicating this literal "Thread " 4 times.(‰şÛ–8Î¯§¹˜1
+J
+java:S1604"(Make this anonymous inner class a lambda(ôâ…Æşÿÿÿÿ8Î¯§¹˜1
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(‰şÛ–8Ô¯§¹˜1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÍêĞÿÿÿÿÿ8Ô¯§¹˜1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‰şÛ–8Ô¯§¹˜1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‰şÛ–8Õ¯§¹˜1
