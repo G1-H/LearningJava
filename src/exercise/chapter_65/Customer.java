@@ -15,6 +15,7 @@ public class Customer implements Serializable {
     double bonusRatio;
 
     @Override
+    @MyAnnotation(name = "Equal")
     public boolean equals(Object obj) {
         if (obj == null) return false;
         if (obj instanceof Customer){
@@ -33,9 +34,11 @@ public class Customer implements Serializable {
 
 
     /**
+     *
      * @param price int 물건의 가격
      * @return int 마지막 계산된 가격
      */
+    @MyAnnotation(name="가격 계산하기")
     public int calculatePrice(int price){
         this.bonusPoint += price * bonusRatio;
         return price;
@@ -48,6 +51,7 @@ public class Customer implements Serializable {
     public Customer() {
     }
 
+    @MyAnnotation(name="constructor")
     public Customer(String customerID, String name){
         this(customerID, name, "SILVER", 0, 0.01);
     }
@@ -66,7 +70,7 @@ public class Customer implements Serializable {
     }
 
     /**
-     * @param customerName String 고객 이름
+     * @param customerName String 고객 이름.
      */
     public void setCustomerName(String customerName) {
         this.customerName = customerName;
