@@ -1,0 +1,16 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ãéû8ùì¸Ä˜1
+T
+java:S1135"2Complete the task associated to this TODO comment.(Œ¼ê›øÿÿÿÿ8€í¸Ä˜1
+_
+java:S1612"=Replace this lambda with method reference 'Student::getName'.(‘Ôİıÿÿÿÿ8í¸Ä˜1
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ù©Šúÿÿÿÿ8í¸Ä˜1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ù©Šúÿÿÿÿ8í¸Ä˜1
+T
+java:S1135 "2Complete the task associated to this TODO comment.(é×àøÿÿÿÿ8í¸Ä˜1
+`
+java:S1612$">Replace this lambda with method reference 'Student::getScore'.(´Ü…¶ıÿÿÿÿ8œ¹Ä˜1
+s
+java:S3457&"Q%n should be used in place of \n to produce the platform-specific line separator.(®¹½»ûÿÿÿÿ8‚í¸Ä˜1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(®¹½»ûÿÿÿÿ8‚í¸Ä˜1

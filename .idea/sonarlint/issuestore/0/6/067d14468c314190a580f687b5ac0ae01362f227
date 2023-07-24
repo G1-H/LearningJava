@@ -1,0 +1,13 @@
+
+g	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÈÌéÅ˜1
+W
+java:S1141"5Extract this nested try block into a separate method.(çµá¤üÿÿÿÿ8ÈÌéÅ˜1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±ğùóÿÿÿÿÿ8ÉÌéÅ˜1
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ÓÌéÅ˜1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(©ˆİ¬8ÕÌéÅ˜1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¢ïõº8ÕÌéÅ˜1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ÀàÉáûÿÿÿÿ8ÖÌéÅ˜1
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(´©ƒ…şÿÿÿÿ8ÖÌéÅ˜1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ŸÙêÅ˜1

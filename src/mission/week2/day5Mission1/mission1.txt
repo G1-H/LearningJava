@@ -1,0 +1,89 @@
+질문
+
+수업시간에 활용했던 students 리스트에서 Stream API 를 활용하여
+좀 더 다양한 자료를 뽑아보려고 합니다. 아래 두 가지 요청을 수행하고 값을 출력하세요.
+남학생들 중 가장 낮은 성적을 가진 학생의 이름 출력하기
+- 주어진 학생 리스트에서 남학생들 중 가장 낮은 성적을 가진 학생의 이름을 출력하세요.
+단, 한 명도 없을 경우 “N/A”를 반환하세요.
+여학생들 중 성적 상위 3명의 평균 성적 구하기
+- 주어진 학생 리스트에서 여학생들 중 성적이 상위 3명의 평균 성적을 구하세요.
+단, 여학생이 3명 미만인 경우 평균을 구하지 않고 0을 반환하세요.
+
+Base Code
+
+[Student.java]
+
+public class Student {
+    // 속성 (2) 학생 개인정보
+    private String name; // 이
+    private String gender; // 성별
+
+    private int score;
+
+    public String getName(){
+        return this.name;
+    }
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getScore() {
+        return score;
+    }
+
+    public String getGender() {
+        return gender;
+    }
+
+    public Student(String name, String gender, int score) {
+        this.name = name;
+        this.gender = gender;
+        this.score = score;
+    }
+}
+
+
+[ScoreTest.java]
+
+public class ScoreTest {
+    public static void main(String[] args){
+        // List 제공
+        List<Student> students = new ArrayList<>();
+
+        students.add(new Student("아이유", "여자", 95));
+        students.add(new Student("박보검", "남자", 92));
+        students.add(new Student("송중기", "남자", 90));
+        students.add(new Student("김태리", "여자", 85));
+        students.add(new Student("전정국", "남자", 88));
+        students.add(new Student("방탄소년단", "남자", 70));
+        students.add(new Student("이지은", "여자", 63));
+        students.add(new Student("윤아", "여자", 70));
+        students.add(new Student("하정우", "남자", 75));
+        students.add(new Student("공유", "남자", 80));
+
+        //TODO: 남학생들 중 가장 낮은 성적을 가진 학생의 이름 출력하기
+
+        System.out.printf("가장 성적이 낮은 남학생 이름: %s\n");
+
+        //TODO: 여학생들 중 성적 상위 3명의 평균 성적 구하기
+
+        System.out.printf("여학생 상위 3명 평균: %.2f\n");
+    }
+}
+
+
+
+예상 출력
+
+가장 성적이 낮은 남학생 이름: 방탄소년단
+여학생 상위 3명 평균: 83.33
+
+
+TIP :
+
+min() 메서드의 사용에 있어서 비교 기준을 잘 설정해야 합니다.
+성적이 낮은 학생을 선택하기 위해서는 학생 점수 비교를 새롭게 설정해야합니다.
+성적 상위 3명을 구하기 위해 sorted() 메서드를 사용할 때, 비교 기준을 정확히 설정해야 합니다.
+오름차순으로 정렬하기 위해서는 학생 점수 비교를 새롭게 설정해야합니다.
+평균을 구할 때 average() 메서드의 결과로 OptionalDouble이 반환되므로,
+orElse() 메서드를 사용하여 0으로 설정하여 기본값을 지정합니다.
