@@ -15,7 +15,7 @@ public enum FileWriterSingletonEnum {
             throw new RuntimeException(e);
         }
     }
-    //git main
+    //git main 변경해보자
 
     public void writeToFile(String message){
         try {
