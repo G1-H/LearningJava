@@ -1,0 +1,17 @@
+
+N
+java:S1611
+"1Remove the parentheses around the "str" parameter(÷—Øö8ë”“·˜1
+a
+java:S1612
+"DReplace this lambda with method reference 'Printer::printSomething'.(÷—Øö8ë”“·˜1
+V
+java:S1612":Replace this lambda with method reference 'Customer::new'.(üˆ8ì”“·˜1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´Ğ¸óùÿÿÿÿ8í”“·˜1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°ùüÿÿÿÿ8í”“·˜1
+M
+java:S1611"1Remove the parentheses around the "str" parameter(İ¸­8î”“·˜1
+V
+java:S1612":Replace this lambda with method reference 'Customer::new'.(İ¸­8î”“·˜1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(åà“­8¬×˜·˜1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(İì¿¿8Üˆ™·˜1
