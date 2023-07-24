@@ -15,11 +15,12 @@ public enum FileWriterSingletonEnum {
             throw new RuntimeException(e);
         }
     }
+    //git test
 
     public void writeToFile(String message){
         try {
             fileWriter.write(message + "\n");
-            fileWriter.flush(); 
+            fileWriter.flush();
         } catch (IOException e) {
             e.printStackTrace();
         }
