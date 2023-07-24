@@ -15,7 +15,7 @@ public enum FileWriterSingletonEnum {
             throw new RuntimeException(e);
         }
     }
-    //git test
+    //git test333
 
     public void writeToFile(String message){
         try {
